@@ -1,0 +1,95 @@
+.div{
+    background-image: url(i.webp);
+    width: 1900px;
+    height: 1100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.divcha{
+    width:330px;
+    height: 250px;
+    background-color: white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 30px;
+    padding: 30px;
+}
+.img-i{
+width: 50px;
+height: 40px;
+}
+.margin{
+    margin-top: 10px;
+}
+.p{
+    margin-top: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+.p-1{
+    margin-top: 5px;
+    font-size: 12px;
+    opacity: 0.8;
+}
+.otacha{
+    width: 250px;
+    height: 7px;
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.bola{
+    width: 70px;
+    height: 5px;
+    background-color: rgb(202, 184, 21);
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.img-1{
+    width: 65px;
+    height: 55px;
+}
+.mars{
+    font-size: 45px;
+}
+.h2{
+    font-weight: 400;
+}
+.h2-ota{
+    display: flex;
+    gap: 5px;
+}
+.sinab{
+    font-weight: 400;
+}
+.bola-1{
+    width: 190px;
+    height: 5px;
+    background-color: rgb(202, 184, 21);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.sinov1{
+    font-weight: 400;
+    margin-top: 5px;
+}
+.bola-2{
+    width: 249px;
+    height: 5px;
+    background-color: rgb(202, 184, 21);
+    border: 1px solid black;
+}    
+.divcha{
+position: relative;
+top: 950px;
+border: 0.5px solid black;
+}
